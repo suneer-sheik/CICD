@@ -12,7 +12,6 @@ Prerequisites:
    -  Kubernetes cluster
    -  Helm package manager
    -  Argo CD
-[here](https://www.google.com)
 Steps:
 
     1. Install the necessary Jenkins plugins:
