@@ -12,7 +12,7 @@ Prerequisites:
    -  Kubernetes cluster
    -  Helm package manager
    -  Argo CD
-
+[here](https://www.google.com)
 Steps:
 
     1. Install the necessary Jenkins plugins:
@@ -54,7 +54,7 @@ Steps:
     6. Configure Jenkins pipeline to integrate with Argo CD:
        6.1 Add the Argo CD API token to Jenkins credentials.
        6.2 Update the Jenkins pipeline to include the Argo CD deployment stage.
-      [here](https://www.google.com)
+      
 
     7. Run the Jenkins pipeline:
        7.1 Trigger the Jenkins pipeline to start the CI/CD process for the Java application.
